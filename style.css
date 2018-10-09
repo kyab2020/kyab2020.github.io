@@ -5,26 +5,36 @@ html, body {
   height: 100%;
 }
 h1 {text-align:center; 
-font-size: 48px;
-  font-family: mo; 
+font-size: 55px;
+  font-family: Impact, sans-serif; 
 color: black;}
-h2 {text-align:center;}
 
-a:link {font-size:25px;
+h4 {text-align:center; font-family: Impact, sans-serif;}
+
+
+a:link {font-size:20px;
     color: pink; 
     background-color: transparent; 
     text-decoration: none;
 }
-
-a:visited {
-    color: purple;
+a:hover {font-size: 25px;
+    text-shadow: 5px 20px; color:purple 
 }
 
-a:hover {font-size:25px;
-    text-shadow: 5px 20px; color:purple ;
+p {line-height: -200px;}
+
+img
+{
+display:block; margin:auto;
+	height: 400px;
+	width: 300px;
+ align: center ;
+} 
+
+p2 { font-size: 15px}
+
+q {text-align:center; font-size: 10px;}
+
+.caption {
+	margin-top: 0px; text-align:center; font-size:15px;
 }
-
-
-
-
-
