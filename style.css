@@ -4,4 +4,4 @@ color: blue;
 
 p {text-align: center;}
 
-body {background-image: url('construction.jpg')}
+body {background-image: url('construction.jpg') opacity: 50;}
